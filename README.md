@@ -5,4 +5,5 @@ A desktop app for playing [Jass](https://en.wikipedia.org/wiki/Jass) with online
 ## Authors
 
 Thomas Berkane
+
 Yingxuan Duan
